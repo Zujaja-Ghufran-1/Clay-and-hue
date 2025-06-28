@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Clay & Hue</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Clay & Hue</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Elegant Ceramic & Glassware</h2>
+    <p>Explore timeless designs in every hue — crafted to elevate your space.</p>
+  </section>
+
+  <section id="about" class="about">
+    <h3>About Us</h3>
+    <p>At Clay & Hue, we celebrate color and craft through handmade ceramic cups and delicate glassware. Each piece is curated for the soul that loves beauty in everyday moments.</p>
+  </section>
+
+  <section id="gallery" class="gallery">
+    <h3>Colorful Collection</h3>
+    <div class="grid">
+      <img src="https://source.unsplash.com/400x400/?ceramic,mug" alt="Ceramic Mug"/>
+      <img src="https://source.unsplash.com/400x400/?glass,cup" alt="Glass Cup"/>
+      <img src="https://source.unsplash.com/400x400/?aesthetic,mug" alt="Aesthetic Cup"/>
+      <img src="https://source.unsplash.com/400x400/?clay,mug" alt="Clay Mug"/>
+      <img src="https://source.unsplash.com/400x400/?pastel,glass" alt="Pastel Glass"/>
+      <img src="https://source.unsplash.com/400x400/?minimal,mug" alt="Minimal Cup"/>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h3>Contact</h3>
+    <p>For collaborations or inquiries, email us at <a href="mailto:hello@clayandhue.com">hello@clayandhue.com</a>.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Clay & Hue. All rights reserved.</p>
+  </footer>
+</body>
+</html>
